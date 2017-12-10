@@ -22,12 +22,4 @@
             <systemPath>${basedir}/lib/algs4.jar</systemPath>
         </dependency>
     </dependencies>
-
-    <repositories>
-        <repository>
-            <id>algs</id>
-            <url>https://dl.bintray.com/algs4/maven</url>
-        </repository>
-    </repositories>
-
 </project>
